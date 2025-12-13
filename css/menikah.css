@@ -588,9 +588,9 @@ body.preloader-site {
   background-repeat:no-repeat;
   min-height: 24rem;
 }
-
+/* linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)),  */
 .foto4 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/NAC23974982.jpeg");
+  background-image: url("../image/NAC23974982.jpeg");
   background-size: cover;
   background-position: top;
   background-repeat:no-repeat;
@@ -598,7 +598,7 @@ body.preloader-site {
 }
 
 .foto5 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/JH73465.jpeg");
+  background-image: url("../image/JH73465.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -607,7 +607,7 @@ body.preloader-site {
 
 
 .foto6 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/JG27364.jpeg");
+  background-image: url("../image/JG27364.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
